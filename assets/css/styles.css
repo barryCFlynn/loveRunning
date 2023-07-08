@@ -206,3 +206,7 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+#social li {
+    width: 20%;
+}
